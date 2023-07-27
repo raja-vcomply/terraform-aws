@@ -1,0 +1,7 @@
+# Ignore Terraform state files
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.pem
+
+# Add more patterns to ignore other files as needed.
